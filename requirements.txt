@@ -3,7 +3,7 @@ imbalanced_learn==0.13.0
 imblearn==0.0
 matplotlib==3.10.1
 nltk==3.9.1
-numpy==2.2.4
+numpy>=1.26.0,<2.2.0
 pandas==2.2.3
 scikit_learn==1.6.1
 seaborn==0.13.2
